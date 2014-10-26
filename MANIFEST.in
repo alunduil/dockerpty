@@ -1,2 +1,4 @@
 include README.md
 include LICENSE.txt
+recursive-include tests *
+recursive-include features *
